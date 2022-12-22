@@ -57,6 +57,7 @@ namespace StringCalculator1.Tests
         }
 
 
+        [TestCase(null, 0)]
         [TestCase("//;\n1;2", 3)]
         [TestCase("//k\n-1k2k3k4", 8)]
         [TestCase("//;\n1;2;1001", 3)]
