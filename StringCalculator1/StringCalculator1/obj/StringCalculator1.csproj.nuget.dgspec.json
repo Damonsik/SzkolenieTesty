@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patryk.burkiewicz\\source\\repos\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj": {}
+    "C:\\Users\\patryk.burkiewicz\\SzkolenieTesty\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patryk.burkiewicz\\source\\repos\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj": {
+    "C:\\Users\\patryk.burkiewicz\\SzkolenieTesty\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patryk.burkiewicz\\source\\repos\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj",
+        "projectUniqueName": "C:\\Users\\patryk.burkiewicz\\SzkolenieTesty\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj",
         "projectName": "StringCalculator1",
-        "projectPath": "C:\\Users\\patryk.burkiewicz\\source\\repos\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj",
+        "projectPath": "C:\\Users\\patryk.burkiewicz\\SzkolenieTesty\\StringCalculator1\\StringCalculator1\\StringCalculator1.csproj",
         "packagesPath": "C:\\Users\\patryk.burkiewicz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patryk.burkiewicz\\source\\repos\\StringCalculator1\\StringCalculator1\\obj\\",
+        "outputPath": "C:\\Users\\patryk.burkiewicz\\SzkolenieTesty\\StringCalculator1\\StringCalculator1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patryk.burkiewicz\\AppData\\Roaming\\NuGet\\NuGet.Config",
