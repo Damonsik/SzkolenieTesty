@@ -69,5 +69,13 @@ namespace StringCalculator1.Tests
 
             Assert.That(result, Is.EqualTo(suma));
         }
+
+        [TestCase("1")]
+        public void ShouldExceptionLessNumbers(string numbers)
+        {
+            var stringCalculator = new StringCalculator();
+
+            Assert.Throws<Exception>(() => stringCalculator.AddNumbersFindDelimiter(numbers));
+        }
     }
 }

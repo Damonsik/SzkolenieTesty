@@ -29,7 +29,7 @@
             }
         }
 
-        public int Sum(List<int> lists)
+        private int Sum(List<int> lists)
         {
             int sum = 0;    
             foreach (var list in lists)
