@@ -1,3 +1,5 @@
+using NUnit.Framework;
+
 namespace StringCalculator1.Tests
 {
     public class Tests
